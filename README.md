@@ -1,12 +1,10 @@
+fix `./build_ros.sh` not working problem
+
 Environment
 1. Ubunth 20.04
 2. ROS1 noetic
 3. OpenCV 4.2
 4. Pangolin **v0.6**
-
-Checklist
-1. fix `./build_ros.sh` not working problem
-2. add launch file for remapping topic name
 
 ---
 
